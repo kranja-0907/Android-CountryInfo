@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">COUNTRY INFORMATION</string>
+    <string name="please_wait">PLEASE WAIT</string>
+    <string name="no_internet">No internet</string>
+    <string name="countries">COUNTRIES</string>
+    <string name="quiz">QUIZ</string>
+    <string name="about">ABOUT</string>
+    <string name="exit">EXIT</string>
+    <string name="Really">We will miss you :(</string>
+    <string name="Cancel">I will stay</string>
+    <string name="Ok">Bye</string>
+    <string name="countries_are_big_but_knowledge_is_bigger">Countries are big but knowledge is bigger</string>
+    <string name="knowledge_is_waiting">Knowledge is waiting</string>
+    <string name="learn_some">Let\'s go learn some more :)</string>
+    <string name="channel_title">TITLE</string>
+    <string name="channel_ID">CHANNEL_ID</string>
+    <string name="delete">Delete</string>
+    <string name="sure">Are you sure you want to delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

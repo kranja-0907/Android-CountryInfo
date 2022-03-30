@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splashPadding">50dp</dimen>
+    <dimen name="ivSplashHeight">400dp</dimen>
+    <dimen name="splashTextSize">40dp</dimen>
+    <dimen name="nhWidth">150dp</dimen>
+    <dimen name="nhHeight">100dp</dimen>
+    <dimen name="nhMarginTop">25dp</dimen>
+    <dimen name="nvWidth">162dp</dimen>
+    <dimen name="nvHeight">290dp</dimen>
+    <dimen name="paddingMain">20dp</dimen>
+    <dimen name="textSizeAbout">50sp</dimen>
+    <dimen name="paddingCountries">10dp</dimen>
+    <dimen name="ivSize">50dp</dimen>
+    <dimen name="textSizeCountry">20sp</dimen>
+    <dimen name="marginLeftCountry">20dp</dimen>
+    <dimen name="cornerRadius">10dp</dimen>
+</resources>
